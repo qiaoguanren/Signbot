@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="./video/signbot-demo-final-1.mp4" width="80%"/>
+<img src="./img/pipeline.png" width="80%"/>
 </p>
 
 ## Installation ##
