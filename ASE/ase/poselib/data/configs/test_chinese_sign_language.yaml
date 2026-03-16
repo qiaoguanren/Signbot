@@ -1,0 +1,4791 @@
+motions:
+  root: "/data1/guanren/CSL-Daily/target_body/"
+  'S007397_P0000_T00':
+    description: 厨师发现吃饭的地方有一只老鼠。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000020_P0004_T00':
+    description: 他今年四岁。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000040_P0008_T00':
+    description: 今天星期几？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000054_P0008_T00':
+    description: 今天我想吃面条。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000153_P0000_T00':
+    description: 你和小张什么时候认识的？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000185_P0004_T00':
+    description: 我要去超市买椅子，你去吗？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000195_P0004_T00':
+    description: 他们下午要做什么？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000196_P0008_T00':
+    description: 他们想什么时候去买椅子？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000201_P0000_T00':
+    description: 我每天六点起床。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000213_P0004_T00':
+    description: 他每天回来都很累。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000218_P0004_T00':
+    description: 这块手表是你的吗？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000220_P0000_T00':
+    description: 这块手表多少钱买的？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000224_P0000_T00':
+    description: 你看见我的杯子吗？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000225_P0004_T00':
+    description: 这里有几个杯子，哪个是你的？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000230_P0000_T00':
+    description: 左边的房间是我爸爸妈妈的，他们的房间很大。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000236_P0000_T00':
+    description: 微信是谁发的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000249_P0000_T00':
+    description: 他是什么时候开始踢足球的？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000255_P0000_T00':
+    description: 苹果是你买的吗？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000257_P0000_T00':
+    description: 晚上我们去饭馆吃饭怎么样？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000262_P0004_T00':
+    description: 帮我看一下，这件衣服怎么样？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000274_P0000_T00':
+    description: 今天天气有点冷。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000275_P0004_T00':
+    description: 我昨天有点累。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000291_P0000_T00':
+    description: 这个月我每天游泳。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000295_P0000_T00':
+    description: 不是，他是去见他同学。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000313_P0004_T00':
+    description: 可以，离这里不远有一个饭馆，走几分钟就到了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000317_P0004_T00':
+    description: 公司离家很远，她为什么不打车？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000331_P0004_T00':
+    description: 这件红色的衣服怎么样？这是新的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000362_P0000_T00':
+    description: 左边这个看手机的女生是你女朋友吗？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000373_P0000_T00':
+    description: 你比我早起一个小时。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000379_P0004_T00':
+    description: 下雪了，今天真冷。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000388_P0000_T00':
+    description: 我不认识那个男生。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000414_P0004_T00':
+    description: 时间过得真快，新年快要到了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000433_P0000_T00':
+    description: 那也不能一直上网。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000438_P0004_T00':
+    description: 水果、面包、茶都准备好了，我们还带什么？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000440_P0000_T00':
+    description: 这些我昨天下午就准备好了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000452_P0004_T00':
+    description: 你看，我这么胖，怎么办呢？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000455_P0000_T00':
+    description: 但是你一点也没瘦，你做什么运动了？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000460_P0000_T00':
+    description: 阴天，电视上说多云，怎么了？明天有事？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000464_P0000_T00':
+    description: 我不去爬山，我有事。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000466_P0000_T00':
+    description: 我记得你已经有两条这样的裤子了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000468_P0000_T00':
+    description: 这条裤子怎么样？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000475_P0008_T00':
+    description: 桌上放着很多饮料，你喝什么？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000496_P0000_T00':
+    description: 你去房间找找，是不是刚才放在桌子上了？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000502_P0000_T00':
+    description: 学校太大，多累啊。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000504_P0004_T00':
+    description: 我喝咖啡怎么了？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000550_P0004_T00':
+    description: 那你现在为什么不去？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000560_P0008_T00':
+    description: 你想请几天假？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000561_P0000_T00':
+    description: 小张，那个女生是你们公司的吗？你对她了解吗？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000568_P0008_T00':
+    description: 不用去医院。我问你，你多久没运动了？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000573_P0000_T00':
+    description: 说下你为什么选择来我们公司工作。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000576_P0004_T00':
+    description: 只要我同意，我相信我妻子就会同意的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000578_P0000_T00':
+    description: 没有了，谢谢你给我这个机会，我会努力的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000598_P0000_T00':
+    description: 先把茶和杯子放好，然后把冰箱里的西瓜拿出来。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000603_P0008_T00':
+    description: 那件衣服我穿着小，送给我弟弟了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000616_P0008_T00':
+    description: 明天上海要下雪。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000620_P0000_T00':
+    description: 吃完午饭要多吃点水果。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000625_P0004_T00':
+    description: 早饭我吃的是面包和牛奶。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000637_P0000_T00':
+    description: 你们吃点什么，我请客。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000638_P0004_T00':
+    description: 我想试试这件衣服，在哪儿？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000656_P0004_T00':
+    description: 天气预报明天下雪，多穿衣服。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000669_P0000_T00':
+    description: 超市在医院的旁边。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000673_P0000_T00':
+    description: 我给你预订了一个生日蛋糕。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000690_P0000_T00':
+    description: 我喜欢冬天，下雪太美了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000695_P0004_T00':
+    description: 上海的夏天太热了，需要买空调。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000708_P0000_T00':
+    description: 我们乘坐公交车回学校。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000718_P0000_T00':
+    description: 我们的航班延误了，现在住在酒店。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000724_P0000_T00':
+    description: 跑步完很渴，我想喝饮料。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000783_P0000_T00':
+    description: 晚上你有没有时间？我想和你去跑步。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000786_P0000_T00':
+    description: 公交站台太远了，我们还是打车回家吧。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000788_P0004_T00':
+    description: 他的女儿每天晚上写作业写到很晚。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000791_P0000_T00':
+    description: 祝你生日快乐，越来越漂亮。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000809_P0000_T00':
+    description: 学校附近哪里有好吃的饭店？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000823_P0000_T00':
+    description: 今天的晚饭是面条和饺子。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000849_P0000_T00':
+    description: 手机选不到靠近窗户的位置。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000852_P0000_T00':
+    description: 请问在哪里取行李箱？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000860_P0004_T00':
+    description: 上海的地铁很多，我不知道乘坐哪一个地铁。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000874_P0004_T00':
+    description: 机场离我家远，我打车去机场。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000877_P0004_T00':
+    description: 从合肥到北京，推荐乘坐高铁，座位舒服。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000903_P0000_T00':
+    description: 附近有很多好吃的饭店。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000912_P0008_T00':
+    description: 服务员，拿点餐巾纸，饮料洒了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000914_P0008_T00':
+    description: 我喜欢喝奶茶，甜的我都喜欢。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000931_P0008_T00':
+    description: 今天水果很新鲜，买一个西瓜回家。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000934_P0008_T00':
+    description: 少喝酒，多吃菜，吃饱再回家。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000937_P0008_T00':
+    description: 我妻子最近喜欢喝酸，是不是要有儿子？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000945_P0008_T00':
+    description: 我吃了面条不舒服。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000962_P0000_T00':
+    description: 我开车去高铁站接儿子。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000963_P0008_T00':
+    description: 今年你和妻子准备去哪里旅游？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000966_P0008_T00':
+    description: 你喜欢这条裙子，我可以拿一件给你试穿。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000968_P0008_T00':
+    description: 这条裤子打折，我给儿子买一条。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000969_P0008_T00':
+    description: 我拿了一条裤子，哪里可以结账？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000988_P0000_T00':
+    description: 你男朋友右边那个女生是谁？很漂亮。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000998_P0000_T00':
+    description: 我弟弟喜欢踢足球，身体很好。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001026_P0000_T00':
+    description: 听人到你们学校学习手语，要多少钱？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001027_P0000_T00':
+    description: 我想找聋人朋友学习手语。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001030_P0008_T00':
+    description: 手机可以学习手语。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001035_P0000_T00':
+    description: 我有朋友在银行工作，他知道怎么贷款。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001051_P0000_T00':
+    description: 妈妈，同学新买了一块手表，我也想买。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001064_P0008_T00':
+    description: 爷爷年龄大，喜欢爬山。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001072_P0008_T00':
+    description: 介绍一下，他是我的乒乓球老师。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001073_P0000_T00':
+    description: 工作累的时候喝一杯咖啡。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001081_P0000_T00':
+    description: 晚上从学校回家，公交车人很多。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001090_P0000_T00':
+    description: 蛋糕太甜，吃多了对身体不好。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001091_P0000_T00':
+    description: 警察要检查你的身份证。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001095_P0008_T00':
+    description: 儿子越来越瘦了，让他在学校多吃饭。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001126_P0008_T00':
+    description: 今天天气好，爸爸和爷爷会出去跑步。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001142_P0000_T00':
+    description: 她的姐姐是老师，平时开车去学校。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001143_P0000_T00':
+    description: 我的护照忘记带了，需要回家拿。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001147_P0000_T00':
+    description: 我的爷爷年龄很大，不适合坐飞机。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001164_P0000_T00':
+    description: 买单程票不能乘坐两次汽车。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001173_P0000_T00':
+    description: 司机，我在前面红绿灯路口下车。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001178_P0008_T00':
+    description: 因为天气不好，飞机航班取消。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001186_P0000_T00':
+    description: 我没有买到火车卧铺票。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001221_P0008_T00':
+    description: 我在家吃早饭和午饭，在学校吃午饭。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001222_P0004_T00':
+    description: 你公司的午饭味道怎么样？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001227_P0000_T00':
+    description: 今天的菜好咸，我想喝饮料。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001232_P0000_T00':
+    description: 这道菜味道太辣了，我需要喝点水。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001236_P0004_T00':
+    description: 今天是妹妹的生日，我来做鱼。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001246_P0000_T00':
+    description: 服务员，卫生间在哪里。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001252_P0000_T00':
+    description: 我的妻子感冒了，我开车带她去医院。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001260_P0000_T00':
+    description: 你去超市买伞，我在收银台等你。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001266_P0002_T00':
+    description: 我下班要去超市买一些果汁回家。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001268_P0000_T00':
+    description: 这家商店的水果便宜，我想买一些香蕉。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001292_P0004_T00':
+    description: 你不要吃太多巧克力，对身体不好。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001298_P0004_T00':
+    description: 父母过生日，你应该早点起床做早饭。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001308_P0000_T00':
+    description: 天气太冷了，我们去打篮球吧。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001315_P0004_T00':
+    description: 我的爷爷会手语，有很多聋人朋友。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001324_P0000_T00':
+    description: 病人做完手术还不能出院，护士会照顾他。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001349_P0000_T00':
+    description: 我今天去爬山，晚上回家吃晚饭。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001354_P0000_T00':
+    description: 我有两件衣服，一件是红色的，一件是黄色的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001356_P0000_T00':
+    description: 穿黑色鞋子的男生是我的男朋友。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001357_P0000_T00':
+    description: 我的女儿没有手机，我只能给她的朋友打电话。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001369_P0000_T00':
+    description: 过年回家多吃蔬菜，少吃肉，别胖了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001372_P0000_T00':
+    description: 明天考试，带上笔，不要带手机。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001377_P0000_T00':
+    description: 中午去哪里吃饭，在学校还是去饭店？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001401_P0008_T00':
+    description: 牛奶可以和咖啡一起喝。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001403_P0004_T00':
+    description: 我的老板对我满意，我很高兴。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001409_P0000_T00':
+    description: 上班时间不能喝酒，老板也不能。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001414_P0008_T00':
+    description: 明天是春节，要穿新衣服。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001415_P0000_T00':
+    description: 这件衣服不保暖，我不想买。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001417_P0004_T00':
+    description: 明天考试完就放假，我很高兴。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001423_P0000_T00':
+    description: 你是我的客户，我应该请你吃饭。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001425_P0000_T00':
+    description: 跳舞是一种运动，对身体好。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001430_P0008_T00':
+    description: 老板发邮件让我预订回公司的航班。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001432_P0004_T00':
+    description: 我的儿子在出差，你有事给他打电话。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001447_P0004_T00':
+    description: 路口有狗，我有点害怕它。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001456_P0000_T00':
+    description: 我下午吃很多水果，不想吃晚饭。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001489_P0004_T00':
+    description: 我没有看到老板的邮件，他什么时候发的？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001507_P0004_T00':
+    description: 穿蓝色裙子在跳舞的是我的女儿。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001509_P0004_T00':
+    description: 今天是阴天，可能会下雨。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001515_P0004_T00':
+    description: 不要在家里看电视，出去踢足球。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001517_P0000_T00':
+    description: 椅子上有一件衣服，是谁的？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001568_P0004_T00':
+    description: 合肥气温低，你骑自行车上学一定很冷。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001574_P0004_T00':
+    description: 我的丈夫在美国，他喜欢中国菜。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001610_P0004_T00':
+    description: 服务员说黑色的帽子很适合我。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001625_P0005_T00':
+    description: 我明天去超市买面包给爷爷吃。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001641_P0000_T00':
+    description: 人体的许多器官都可能发生癌变。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001656_P0004_T00':
+    description: 手术治疗是目前治疗白内障比较有效的手段。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001667_P0000_T00':
+    description: 因为白天很忙，所以我大部分时候阅读是在晚上睡觉前躺在床上完成的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001685_P0000_T00':
+    description: 一位老人正在慢慢地穿过斑马线，等待的司机却不耐烦地按起了喇叭。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001687_P0000_T00':
+    description: 斑马线是行人的生命线。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001702_P0000_T00':
+    description: 目前许多笔记本电脑都内置了蓝牙功能。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001705_P0004_T00':
+    description: 老师最后介绍了研制蓝牙数据终端的设计原理和实现过程。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001711_P0000_T00':
+    description: 这家公司在逐步完善蓝牙的机密性与安全性。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001717_P0000_T00':
+    description: 关闭不必需的一些程序，可以帮助我们节省流量。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001735_P0004_T00':
+    description: 医生量了量我的体温和脉搏，检查了一下我的身体。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001743_P0000_T00':
+    description: 拟设上海公司法人身份证明复印件、简历、照片6张。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001747_P0000_T00':
+    description: 每个人在生活中都会遇到让人感动的事情。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001754_P0000_T00':
+    description: 难道顽强拼搏的运动员不是我们学习的榜样吗？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001759_P0005_T00':
+    description: 你可不要成为弟弟的坏榜样啊！
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001769_P0004_T00':
+    description: 这样子做是最保险的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001788_P0000_T00':
+    description: 他看到病床上缠着绷带的儿子，感到焦急万分。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001798_P0000_T00':
+    description: 他的笔记本电脑中了病毒，根本开不了机。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001808_P0000_T00':
+    description: 他对自己一直高标准严要求。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001813_P0000_T00':
+    description: 你的发音还不够标准，需要多加练习。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001815_P0000_T00':
+    description: 王师傅做出的每个产品都在标准线之上。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001822_P0000_T00':
+    description: 他非常符合我的择偶标准。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001841_P0004_T00':
+    description: 伤口还没有痊愈，别感染了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001851_P0005_T00':
+    description: 祖国到处呈现出万象更新的景象。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001874_P0000_T00':
+    description: 文化交流是沟通各国人民互相了解的桥梁。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001882_P0004_T00':
+    description: 让我好好休息休息吧，天气变化无常，估计是要下雨了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001891_P0000_T00':
+    description: 话剧剧本的情节安排不是固定不变的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001894_P0000_T00':
+    description: 我们上课一直没有固定的教室，今天这儿，明天变成那儿。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001900_P0004_T00':
+    description: 我捡到了一张公交卡，而且这张卡已经被人家挂失了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001902_P0000_T00':
+    description: 请逐项填写这份挂失申请表，我们将仔细核对。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001923_P0004_T00':
+    description: 我喜欢听惊险的故事，但有时越听越害怕。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001927_P0000_T00':
+    description: 我怀着惴惴不安的心情走进办公室，害怕会受到老板的责备。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001954_P0000_T00':
+    description: 这段时间，我要集中精力准备好期末考试。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001960_P0004_T00':
+    description: 中国人民解放军在众寡悬殊的形势下，采取集中力量打歼灭战等战术，终于赢得了战争的胜利。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001965_P0000_T00':
+    description: 政府机关的改革，不但要精简多余的人员，更要减少重叠的机构。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001969_P0000_T00':
+    description: 我国今年的进口减少了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001975_P0000_T00':
+    description: 家里生活条件好了，奶奶还保持着勤俭节约的好习惯。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001978_P0000_T00':
+    description: 水资源是宝贵的，我们要节约用水。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001981_P0000_T00':
+    description: 他的母亲勤俭节约，把他们抚养长大。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S001996_P0004_T00':
+    description: 顺风行船本应该一帆风顺，可风太大了船也禁不起这份折腾。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002001_P0007_T00':
+    description: 言必信，行必果，令行禁止，是我们这所学校师生言行的基本准则。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002004_P0000_T00':
+    description: 军队没有严明的纪律和令行禁止的作风是不行的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002007_P0000_T00':
+    description: 公共场所，禁止吸烟。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002009_P0000_T00':
+    description: 我们不能拒绝别人的善意批评。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002018_P0005_T00':
+    description: 她果然是深爱着另一个人，不然也不会拒绝你。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002025_P0000_T00':
+    description: 雨季即将来临，防洪工作开始了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002026_P0000_T00':
+    description: 毕业后他参了军，开始了他的军旅生涯。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002043_P0000_T00':
+    description: 他俩虽然离婚，但仍感情还在，看来有复婚的可能。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002053_P0005_T00':
+    description: 如果人们不会互相理解，那么他们怎么能学会默默地互相尊重呢？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002062_P0000_T00':
+    description: 宽容使我们变得互相理解，互相信任，互相友爱。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002063_P0000_T00':
+    description: 他们已经离婚了，但仍然藕断丝连地保持联系。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002067_P0000_T00':
+    description: 作文一定要注意下文和上文之间的联系。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002085_P0005_T00':
+    description: 他如饥似渴地读书，从古典作品到流行小说。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002086_P0005_T00':
+    description: 为读者的家居生活带来不同凡响的流行资讯。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002092_P0000_T00':
+    description: 他一听到自己被录取的消息，情绪一下子兴奋起来了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002093_P0005_T00':
+    description: 不难想像，哥哥接到清华大学录取通知书时，心情是多么激动。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002118_P0000_T00':
+    description: 犯罪分子携款外逃的企图没有得逞。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002122_P0005_T00':
+    description: 他手工一天做的笨活没有机器半个小时做的好。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002128_P0000_T00':
+    description: 妈妈一回到家就干这干那，没有休息时间。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002132_P0005_T00':
+    description: 她喜欢模仿歌星唱歌，还很有模有样。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002133_P0000_T00':
+    description: 小孩子总喜欢模仿大人的动作。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002143_P0000_T00':
+    description: 不努力学习，在竞争中就会处于劣势。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002149_P0000_T00':
+    description: 哥哥得到经理的器重，工作更加努力了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002150_P0000_T00':
+    description: 事在人为，这个项目就是大家努力争取来的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002162_P0000_T00':
+    description: 由于配合默契，他俩在男子乒乓球双打比赛中夺取了冠军。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002164_P0000_T00':
+    description: 我们班的干部很齐心，工作中能互相配合。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002167_P0000_T00':
+    description: 生活中，妈妈和爸爸配合得很好，我们家总洋溢着温馨和谐的气氛。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002176_P0000_T00':
+    description: 高年级学生不要欺负低年级小同学。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002198_P0000_T00':
+    description: 申报书内容应简明，并由申报人或其委托代理人签字。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002199_P0005_T00':
+    description: 他把试卷拿回家，让爸爸在上面签字。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002202_P0005_T00':
+    description: 我们一贯强调自力更生，但也不排斥外援。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002208_P0000_T00':
+    description: 既强调市场也强调运营的组织几乎是战无不胜的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002210_P0005_T00':
+    description: 大家在一起工作，应该互相理解支持，既要强调一致性，也要求同存异。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002217_P0000_T00':
+    description: 父母应该看一下，如果你的小孩生病了公司是否允许你带薪请假。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002228_P0000_T00':
+    description: 那个年轻人缺少活力，给人一种暮气沉沉的感觉。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002239_P0005_T00':
+    description: 在欢乐时，朋友们会认识我们，在患难时，我们会认识朋友。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002240_P0000_T00':
+    description: 人生最困难的事情是认识自己。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002245_P0000_T00':
+    description: 逆境里正确认识自我和完善自我是一件十分重要的事。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002256_P0005_T00':
+    description: 我们不但要从成功中总结经验，还要从失败中吸取教训。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002261_P0007_T00':
+    description: 做老师最失败的就是让学生在课堂上总是感觉莫衷一是的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002264_P0000_T00':
+    description: 经过几次的失败，试验终于成功了，大家欣喜若狂，奔走相告。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002269_P0000_T00':
+    description: 分析输液泵临床应用中的意外事故隐患及护理对策。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002274_P0005_T00':
+    description: 有些小孩子很害怕输液，一直嚎啕大哭。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002295_P0005_T00':
+    description: 发展生产的目的是提高人民的生活。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002299_P0000_T00':
+    description: 通过字典我们可以提前预习陌生的字词。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002303_P0005_T00':
+    description: 今天工厂提前完成了本年的生产计划。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002307_P0005_T00':
+    description: 为了提前完工，人们夜以继日地战斗着。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002316_P0005_T00':
+    description: 我很喜欢那种老式的黑白电影。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002330_P0000_T00':
+    description: 为了早点回家，我买的是动车票。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002339_P0000_T00':
+    description: 我现在不方便接电话，用短信联系可以吗？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002347_P0000_T00':
+    description: 不要天天让我帮你介绍对象。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002370_P0000_T00':
+    description: 扫描这张二维码可以领取现金红包。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002376_P0005_T00':
+    description: 二维码也可以变成各种各样的图案。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002380_P0007_T00':
+    description: 二维码真是一个了不起的发明！
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002390_P0000_T00':
+    description: 法律也会存在漏洞。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002397_P0005_T00':
+    description: 我们会通过短信的方式来联系你。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002403_P0007_T00':
+    description: 我通过写信的方式告诉了他这个好消息。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002410_P0000_T00':
+    description: 我们将采用抽查的方式来进行检查。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002420_P0005_T00':
+    description: 汽车调转方向原路返回。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002421_P0005_T00':
+    description: 你要把握好自己人生的方向。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002430_P0005_T00':
+    description: 老师提前了十分钟下课。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002432_P0005_T00':
+    description: 我会一直工作到生命的最后一分钟。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002439_P0005_T00':
+    description: 他只能静下来几分钟。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002441_P0007_T00':
+    description: 两分钟以内，我要知道关于他的全部信息。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002443_P0007_T00':
+    description: 八宝粥的保质期不会超过一个月。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002449_P0000_T00':
+    description: 听完他的演讲，大家脸上都浮现出迷茫的表情。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002454_P0000_T00':
+    description: 平时大大咧咧的小王这时也露出了害羞的表情。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002461_P0007_T00':
+    description: 因为只待一晚上，我就在附近随便找了家宾馆住。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002470_P0007_T00':
+    description: 你最好不要把贵重物品留在宾馆里。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002476_P0005_T00':
+    description: 住院病历一般可以保存三十年。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002479_P0005_T00':
+    description: 病历是禁止涂抹、修改的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002486_P0000_T00':
+    description: 今年政府加强了对贫困人群的补贴力度。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002495_P0000_T00':
+    description: 危险发生时，比起财物，生命更重要。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002500_P0005_T00':
+    description: 他抛下家人，带着家中财物逃走了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002504_P0005_T00':
+    description: 不少餐巾纸上都会印有好看的花纹。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002520_P0005_T00':
+    description: 你又忘带钥匙了？没办法，等我回去吧。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002529_P0000_T00':
+    description: 你有什么办法就快说，别藏着掖着。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002533_P0005_T00':
+    description: 除了这么做，我还有什么办法？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002550_P0000_T00':
+    description: 这场比赛不公平！
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002562_P0005_T00':
+    description: 今晚之前必须填完这个表格。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002578_P0000_T00':
+    description: 这间玻璃作坊有一百年历史了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002580_P0000_T00':
+    description: 小时候，我们爱玩玻璃珠。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002592_P0005_T00':
+    description: 部分与部分之间不是孤立的，而是联系的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002595_P0000_T00':
+    description: 我们对彩票司空见惯了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002607_P0000_T00':
+    description: 有的作家写小说从不打草稿，一气呵成。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002608_P0000_T00':
+    description: 这人真是说谎不打草稿。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002646_P0000_T00':
+    description: 公共场合要注意自己的言行举止。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002656_P0002_T00':
+    description: 他反复检查了好几遍后才提交了答案。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002660_P0002_T00':
+    description: 对于生活是什么这个问题，不同的人会有不同的答案。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002668_P0002_T00':
+    description: 这道题答案很简单，但它背后的道理却很深刻。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002677_P0000_T00':
+    description: 大雨让我的心情也变得很糟糕。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002687_P0002_T00':
+    description: 太巧了，我也住在这附近。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002689_P0002_T00':
+    description: 你没找到裁缝店吗？应该就在附近才对。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002702_P0002_T00':
+    description: 希望每位顾客都能享受到我们最优质的服务。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002706_P0002_T00':
+    description: 我们最近推出的新菜品并不受顾客们的欢迎。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002709_P0002_T00':
+    description: 超市里有各种各样的商品供顾客选择。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002710_P0002_T00':
+    description: 这家店推出的商品总是能迎合顾客的需求。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002744_P0002_T00':
+    description: 他接触过各种各样的人，所以能创作出优秀的作品。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002762_P0000_T00':
+    description: 他的梦想是建立一个属于他的金融帝国。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002763_P0002_T00':
+    description: 他从金融市场中赚到了一大笔财富。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002764_P0002_T00':
+    description: 大家要小心金融诈骗，不要因为贪心而上当。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002785_P0002_T00':
+    description: 这真是一场精彩的决赛！
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002790_P0002_T00':
+    description: 他在决赛时出现了重大失误。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002794_P0000_T00':
+    description: 这家肯德基已经开了十年了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002804_P0000_T00':
+    description: 我家楼下的肯德基生意特别好。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002810_P0002_T00':
+    description: 这位老师的教学水平很高。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002820_P0002_T00':
+    description: 老师最喜欢认真学习的学生。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002824_P0002_T00':
+    description: 老师们每周五下午都会开会。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002828_P0000_T00':
+    description: 你不需要送我什么礼物，有这份心意就足够了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002848_P0000_T00':
+    description: 他发表了很多论文。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002852_P0002_T00':
+    description: 这篇论文在老师那里得到了很高的评价。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002862_P0000_T00':
+    description: 他上班打游戏被老板发现了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002864_P0002_T00':
+    description: 他醒来时发现自己在医院里。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002878_P0002_T00':
+    description: 我国的经济一直以较高的速度向前发展。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002886_P0002_T00':
+    description: 我不反对你玩游戏，但必须控制时间。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002898_P0002_T00':
+    description: 你应该学会倾听那些反对的声音。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002899_P0002_T00':
+    description: 我的建议被否定了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002909_P0002_T00':
+    description: 自我否定是需要付出极大的勇气的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002937_P0000_T00':
+    description: 有人唱反调才是正常的，大家都支持反而有问题。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002942_P0000_T00':
+    description: 你只知道唱反调，从来都没有提出过什么好的意见。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002947_P0002_T00':
+    description: 这款游戏有防沉迷系统。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002951_P0002_T00':
+    description: 自从他沉迷于游戏后，学习成绩一落千丈。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002958_P0002_T00':
+    description: 美丽的景色让我沉迷。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002970_P0002_T00':
+    description: 老师最终承认我才是正确的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002991_P0002_T00':
+    description: 我的手受过伤，提一会东西都会吃不消。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S002998_P0002_T00':
+    description: 第一次见面就迟到会给人不好的印象。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003002_P0000_T00':
+    description: 你迟到了三分钟，所以要罚酒三杯。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003016_P0000_T00':
+    description: 打扮后的他和打扮前比起来简直像换了个人。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003026_P0000_T00':
+    description: 他还没有意识到自己已经得罪了很多人。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003031_P0000_T00':
+    description: 为了躲避大雨，他跑到了超市里面。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003033_P0000_T00':
+    description: 既然困难无法躲避，那就解决它。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003036_P0000_T00':
+    description: 我低下头躲避刺眼的阳光。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003046_P0000_T00':
+    description: 别把我逼急了，小心我和你翻脸！
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003065_P0000_T00':
+    description: 原来你是他的儿子啊，怪不得你看起来这么面熟。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003076_P0000_T00':
+    description: 这罐八宝粥都已经过期变质了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003078_P0002_T00':
+    description: 楼道里放着的那两个灭火器已经过期了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003092_P0002_T00':
+    description: 爷爷每天都会看报纸，了解天下大事。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003101_P0000_T00':
+    description: 长期吸入这种物质容易导致孕妇流产。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003131_P0001_T00':
+    description: 我现在看见你就觉得恶心！
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003140_P0000_T00':
+    description: 快收起你这副令人恶心的样子。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003146_P0000_T00':
+    description: 网上支付方便又快捷，很受年轻人喜爱。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003151_P0000_T00':
+    description: 平板电脑的好处就是方便携带。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003154_P0000_T00':
+    description: 他总是把方便让给别人，把困难留给自己。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003157_P0000_T00':
+    description: 你们两个分别获得了一等奖和二等奖。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003159_P0001_T00':
+    description: 这两件事性质不同，要分别对待。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003162_P0000_T00':
+    description: 这件事分别有什么好处和坏处？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003170_P0001_T00':
+    description: 人和人之间没有高低贵贱的分别。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003181_P0001_T00':
+    description: 看见妈妈期待的眼神，我感到惭愧。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003186_P0001_T00':
+    description: 他的努力使我们大家都感到惭愧。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003192_P0000_T00':
+    description: 这次我失败了，而且失败得很彻底。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003206_P0000_T00':
+    description: 我只有一个大致的计划，细节还没有确定。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003219_P0000_T00':
+    description: 他社会经验少，想法还很单纯。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003225_P0000_T00':
+    description: 他把手机号码写在餐巾纸上递给了我。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003237_P0002_T00':
+    description: 我到了车站才发现把票忘在家里了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003244_P0000_T00':
+    description: 优秀的成绩是他日积月累地学习的成果。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003246_P0002_T00':
+    description: 如果不努力，又怎么会取得好成绩呢？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003248_P0002_T00':
+    description: 看着我的成绩单，妈妈的表情一下子就严肃了起来。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003250_P0000_T00':
+    description: 领导充分肯定了他在工作中取得的成绩。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003256_P0002_T00':
+    description: 你必须严格按照生产程序进行工作。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003258_P0002_T00':
+    description: 我们公司有一套严格的办事程序。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003267_P0002_T00':
+    description: 中国出口国外的商品越来越多。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003269_P0002_T00':
+    description: 博物馆的出口在哪里？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003276_P0002_T00':
+    description: 我国的农产品出口较多。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003289_P0002_T00':
+    description: 我怎么找不到医生开给我的处方了？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003294_P0002_T00':
+    description: 读书是为了学知识，不能单纯从兴趣出发。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003323_P0000_T00':
+    description: 他不愿过这种单调乏味的生活。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003338_P0000_T00':
+    description: 刚才有个姓王的人给你打电话。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003340_P0002_T00':
+    description: 他刚才的话前后矛盾，让人觉得奇怪。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003353_P0000_T00':
+    description: 你应该学会克服自己的害羞情绪。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003371_P0002_T00':
+    description: 他及时抓住了机会，获得了成功。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003381_P0000_T00':
+    description: 他虽然知道这是犯法的，但心存侥幸，最终犯下大错。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003382_P0002_T00':
+    description: 不要谦虚了，你的成功不是用侥幸就能解释的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003385_P0000_T00':
+    description: 在巨大的差距面前不存在任何侥幸。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003402_P0000_T00':
+    description: 见大家都很茫然，老师只好讲得更简单一些。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003406_P0002_T00':
+    description: 我一直对这个问题茫然不解，但刚才突然想通了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003410_P0002_T00':
+    description: 我被老板辞退了，好朋友安慰了我。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003418_P0002_T00':
+    description: 老师安慰了半天，她才止住了哭。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003424_P0000_T00':
+    description: 设备安装完毕，可以开始使用。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003455_P0000_T00':
+    description: 只有相互了解，才能对成功有充分的把握。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003469_P0002_T00':
+    description: 他们为了搬家吵过很多次架。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003471_P0002_T00':
+    description: 他很吵，他的邻居想让他搬家。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003491_P0002_T00':
+    description: 对待学习较差的同学，我们肯定要帮助他。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003494_P0000_T00':
+    description: 我国的教育体系包括基础教育、职业教育等。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003500_P0002_T00':
+    description: 这年头，谁不喜欢包装一下自己？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003515_P0002_T00':
+    description: 报名表格可以于学院各报名中心领取。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003518_P0002_T00':
+    description: 我们不想毕业。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003524_P0000_T00':
+    description: 姐姐大学毕业后，到山区从事教育工作。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003537_P0000_T00':
+    description: 有人说，长期服用避孕药会打乱女性的内分泌平衡。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003545_P0002_T00':
+    description: 五十年之间中国发生了巨大的变化。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003551_P0000_T00':
+    description: 性格，既不坚固也不是一成不变，而是活动变化着的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003572_P0002_T00':
+    description: 面对竞争，我们不能躲避。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003579_P0002_T00':
+    description: 我们不能理解他所说的一番话。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003594_P0000_T00':
+    description: 我不喜欢他看我的眼神。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003605_P0000_T00':
+    description: 这孩子一天到晚，游手好闲，真令人操心。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003619_P0000_T00':
+    description: 考生可向学院办公室查询最终录取结果。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003621_P0001_T00':
+    description: 第一名选手摔倒了，被后面的选手超过了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003633_P0000_T00':
+    description: 老师和同学们一致称赞东东是一个好学生。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003637_P0001_T00':
+    description: 在公园里我看到过不少姹紫嫣红的花朵，令人称赞。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003645_P0000_T00':
+    description: 大家众口同声地称赞她献身于教育事业的精神。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003651_P0001_T00':
+    description: 我们要和与合同承包商协调合作，保障维修工作的顺利完成。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003669_P0000_T00':
+    description: 他盲目崇拜模仿。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003679_P0000_T00':
+    description: 病人空腹到医院抽血，两天后拿报告。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003680_P0000_T00':
+    description: 我根本就不能抽血的，我一看见血就晕。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003692_P0000_T00':
+    description: 妈妈出差了，我们吃住全由奶奶照料。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003697_P0000_T00':
+    description: 这次出差南方的收获很大。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003721_P0000_T00':
+    description: 对于不可改变的事实，除了认命以外，没有更好的办法了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003731_P0000_T00':
+    description: 夏天，虫病传染最为普遍。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003743_P0001_T00':
+    description: 妥善处理群众意见，有利于社会安定。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003747_P0000_T00':
+    description: 垃圾处理问题有关我们每个人的生活。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003753_P0001_T00':
+    description: 他吃不消压力，辞职了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003758_P0000_T00':
+    description: 我在考虑到底是辞职还是继续工作。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003759_P0000_T00':
+    description: 我认为是时候离开了，这是我的辞职信。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003764_P0000_T00':
+    description: 机器生产逐渐代替了笨重的体力劳动。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003765_P0000_T00':
+    description: 小学生的作业，不能由家长包办代替。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003776_P0001_T00':
+    description: 语言代替不了行动，行动才是最响亮的语言。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003778_P0000_T00':
+    description: 他向国家贷款承包了这片荒山。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003786_P0001_T00':
+    description: 公司为它的职员提供无息贷款。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003792_P0000_T00':
+    description: 老师担心我们走路不安全，天天护送我们过马路。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003804_P0001_T00':
+    description: 古人看到彗星，就担心会发生灾难。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003813_P0001_T00':
+    description: 它利用星星来导航。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003821_P0001_T00':
+    description: 每个电表帐户最多只可登记五个用户。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003826_P0000_T00':
+    description: 报名须填写报名登记表。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003831_P0000_T00':
+    description: 早期定居者的生活十分艰苦，他们经常搞不到吃的东西。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003842_P0000_T00':
+    description: 你认为什么是堵车时打发时间最好的方法？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003850_P0001_T00':
+    description: 请保持安静！
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003860_P0000_T00':
+    description: 这条小路十分安静，以至于她都能听到身边人的呼吸的声音。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003880_P0002_T00':
+    description: 对不起这份饭还没有让我吃饱，可以再给我一份吗？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003886_P0000_T00':
+    description: 每个适龄儿童都必须按时入学，接受九年义务教育。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003894_P0002_T00':
+    description: 红灯停，绿灯行，这是人人必须遵守的规矩。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003896_P0001_T00':
+    description: 为什么我这次没考好？是不够细心，还是考试前复习得不够认真？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003903_P0000_T00':
+    description: 别人让你生气，往往因为你自己的修养不够。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003907_P0000_T00':
+    description: 他的身高差不多有一米八。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003911_P0002_T00':
+    description: 这栋大楼差不多有一百米高。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003913_P0001_T00':
+    description: 这两样东西虽然看起来差不多，但材质不同。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003926_P0002_T00':
+    description: 他坐的飞机出事故了，他差点儿死掉。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003933_P0002_T00':
+    description: 他经常在晚上回忆过去。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003936_P0001_T00':
+    description: 休息日，王叔叔常常到我家聊天。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003944_P0001_T00':
+    description: 把处方单给我，我帮你去拿药。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003947_P0000_T00':
+    description: 现在很多医院都是用的电子处方。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003950_P0000_T00':
+    description: 犯错误没关系，只要及时改正就行。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003961_P0000_T00':
+    description: 希望你以后不要再犯一样的错误。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003962_P0000_T00':
+    description: 这种错误的观点，大家都反对。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003976_P0001_T00':
+    description: 你知道存折的密码，不是本人没关系，也可以拿着去取钱。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003985_P0000_T00':
+    description: 你要做好最坏的打算。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003987_P0001_T00':
+    description: 明天是他的生日，你打算送什么礼物？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003997_P0000_T00':
+    description: 我爸爸当年差点考进大学。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S003998_P0000_T00':
+    description: 他是从名牌大学毕业的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004009_P0001_T00':
+    description: 我看到有人被救出来，然后被送上了担架。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004018_P0000_T00':
+    description: 生活的锻炼，使这个孩子变成熟。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004029_P0001_T00':
+    description: 青春期是身体成熟的时期。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004032_P0001_T00':
+    description: 老师重复说了重点。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004036_P0001_T00':
+    description: 我把问题重复了好几遍，他终于明白了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004037_P0000_T00':
+    description: 他看我不敢相信的神情，又重复了一遍。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004040_P0002_T00':
+    description: 要想写出好作文，最好不要重复用词。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004043_P0000_T00':
+    description: 有能力的人会在重复的生活中找出乐趣。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004044_P0001_T00':
+    description: 他把自己装得聪明。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004052_P0000_T00':
+    description: 他们说他好，非常聪明诚实。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004053_P0000_T00':
+    description: 很多聪明人在股市上失败。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004060_P0000_T00':
+    description: 他们对你大概挺客气的吧？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004062_P0001_T00':
+    description: 我下个月大概还要来这儿。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004079_P0002_T00':
+    description: 虽然我知道他在骗我，但是我还是原谅了他。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004089_P0000_T00':
+    description: 我当面斥责他在撒谎。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004091_P0000_T00':
+    description: 我一定要当面感谢这位好心人！
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004097_P0000_T00':
+    description: 有话当面讲，最好不要背后讲。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004098_P0000_T00':
+    description: 今天出门忘记带手机，真是太倒霉了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004099_P0000_T00':
+    description: 我最近真倒霉！
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004103_P0001_T00':
+    description: 真倒霉！你快要打破纪录了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004133_P0001_T00':
+    description: 除了用手语和聋人交流，还能用身体语言来交流。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004139_P0001_T00':
+    description: 不吃饭肚子自然会饿。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004149_P0000_T00':
+    description: 以你的条件可以申请经济适用房。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004159_P0001_T00':
+    description: 妹妹不仅很贪吃，还抱怨自己胖了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004161_P0000_T00':
+    description: 朋友抱怨她的妈妈很唠叨。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004172_P0000_T00':
+    description: 我由一滴水联想到了整片大海的广大。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004175_P0000_T00':
+    description: 我对未来的事业发展联想了很多。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004176_P0001_T00':
+    description: 有个电脑的牌子叫联想。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004178_P0001_T00':
+    description: 可爱的娃娃让人喜欢。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004191_P0000_T00':
+    description: 过得好，活得好，是一种福气，就应该珍惜。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004194_P0001_T00':
+    description: 长的漂亮是运气，长的不漂亮是福气。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004197_P0000_T00':
+    description: 没有福气的人好吃，没有理想的人好睡。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004204_P0003_T00':
+    description: 开车要看好前方行驶，小心驾驶。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004216_P0000_T00':
+    description: 你们喜欢看弹幕吗？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004228_P0000_T00':
+    description: 今天我生病了，领导亲切的关心我，问我好不好。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004234_P0000_T00':
+    description: 班主任王老师仔细的教导，很亲切，让我一直记得。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004235_P0003_T00':
+    description: 今天晚上主人热情大方，让大家有一种回到家的亲切感。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004236_P0003_T00':
+    description: 上课时，老师总是用温和的目光看着大家，使我们感到亲切。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004237_P0003_T00':
+    description: 他的言语里饱含着恳求、温柔、亲切。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004238_P0003_T00':
+    description: 微笑是一种无声亲切的语言，是朋友对你的态度。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004242_P0003_T00':
+    description: 我觉得这表演节目并不适合我。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004263_P0000_T00':
+    description: 人的成功从何而来？知识或天赋，或努力得来。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004264_P0003_T00':
+    description: 不论你生来聪明与否，不要满足，不要忽视自己的天赋。随着天赋发展，你便会成功。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004273_P0003_T00':
+    description: 事实在眼前，不容你否认。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004274_P0007_T00':
+    description: 事实都有证明，根据也有了，他还在坚决否认。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004277_P0003_T00':
+    description: 今日的中国，国民富强，连敌人也不能否认这一点。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004284_P0003_T00':
+    description: 游乐园中的惊吓屋里到处充满了吓人的鬼怪。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004305_P0000_T00':
+    description: 女人听懂了就不冷场了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004311_P0000_T00':
+    description: 我很难相处，所以别惹我生气。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004314_P0003_T00':
+    description: 朋友之间的来往很方便。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004320_P0008_T00':
+    description: 同学之间应该团结友爱，和睦相处。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004324_P0000_T00':
+    description: 学校不是一个摸鱼的地方，学校是出人才的地方。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004338_P0008_T00':
+    description: 你偶像是谁啊？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004343_P0000_T00':
+    description: 你猜猜我的偶像是谁。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004350_P0008_T00':
+    description: 为此我很崇拜他。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004366_P0003_T00':
+    description: 我能吃不代表我是吃货，只能说说明我好养。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004372_P0000_T00':
+    description: 嫌弃干什么，他有这本领。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004386_P0003_T00':
+    description: 太嫌弃你了，我们分手吧。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004389_P0003_T00':
+    description: 心若能容下不满与委屈，哪还有痛苦和伤害。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004399_P0008_T00':
+    description: 忘仇的人必定忘恩，记恩的人必定记仇。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004413_P0000_T00':
+    description: 每种职业都应该得到尊重。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004414_P0000_T00':
+    description: 他对遇到的所有人都很尊重。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004419_P0003_T00':
+    description: 要尊重客观规律。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004442_P0008_T00':
+    description: 他第一次作弊，很紧张，结果被老师发现了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004449_P0003_T00':
+    description: 这件作品里付出了他的心血。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004450_P0000_T00':
+    description: 你的作品缺乏创意，不能打动人。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004452_P0003_T00':
+    description: 他的作品很多，但精品很少。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004459_P0003_T00':
+    description: 他参加了图书馆的暑期活动。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004465_P0003_T00':
+    description: 这几家公司联合成了一个大型组织。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004478_P0008_T00':
+    description: 一个人的知识由多方面组成。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004490_P0000_T00':
+    description: 因为他的坚持，父母最终放弃了阻拦。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004491_P0000_T00':
+    description: 人有各种想法，你不要阻拦他去创业。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004504_P0000_T00':
+    description: 他对自己前面的发言进行了总结。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004513_P0000_T00':
+    description: 我去日本旅游时租了一辆车。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004514_P0003_T00':
+    description: 出国旅游时租一台随身无线会比较方便。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004517_P0003_T00':
+    description: 这的租金高，所以租不出去。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004522_P0000_T00':
+    description: 他英语水平很高，看电影都不需要看字幕的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004525_P0000_T00':
+    description: 网上有很多翻译国外视频的字幕组。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004549_P0000_T00':
+    description: 他的自拍照和他本人不像。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004560_P0008_T00':
+    description: 他用一张自拍来做微信头像。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004571_P0000_T00':
+    description: 老师为有你们这样的学生而自豪。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004573_P0000_T00':
+    description: 看着祖国的发展，我产生了民族自豪感。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004577_P0003_T00':
+    description: 球迷对国足的成绩感到自卑。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004587_P0000_T00':
+    description: 他通过努力战胜了自卑的情绪。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004603_P0003_T00':
+    description: 说说你为这次面试都做了哪些准备？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004605_P0008_T00':
+    description: 他努力追求自己喜欢的女孩。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004633_P0003_T00':
+    description: 你现在的健康状态非常良好。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004636_P0003_T00':
+    description: 你他做的都是小买卖，赚的钱不多。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004640_P0003_T00':
+    description: 我赚的钱不多，但也够用了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004643_P0000_T00':
+    description: 上个月我们公司净赚一百万。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004652_P0000_T00':
+    description: 大公司花费了数万购买一套人事管理电子系统。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004664_P0000_T00':
+    description: 我最大的遗憾是没好好陪爷爷。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004671_P0003_T00':
+    description: 妈妈说人生总要有一点遗憾才完美。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004677_P0000_T00':
+    description: 世界上没有后悔药。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004681_P0003_T00':
+    description: 让我心仪已久的东西突然下架了，我后悔昨天为什么不买？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004686_P0008_T00':
+    description: 后悔没用了，想想怎么补救呢？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004692_P0003_T00':
+    description: 我道歉，是我错怪了人。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004699_P0000_T00':
+    description: 主动道歉不是软弱，而是勇气。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004701_P0003_T00':
+    description: 原来不是你的错误，为什么要跟我道歉？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004711_P0000_T00':
+    description: 这些事物都有它存在的道理。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004729_P0007_T00':
+    description: 我的手机在地铁上被偷了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004743_P0000_T00':
+    description: 传统的地图册已经逐渐被电子地图取代了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004752_P0003_T00':
+    description: 请问在哪里可以买到城市地图？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004754_P0000_T00':
+    description: 封面是书皮，质量不错。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004755_P0007_T00':
+    description: 书籍封面的内容很丰富。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004769_P0007_T00':
+    description: 冬春季节容易引发感冒。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004776_P0000_T00':
+    description: 出国留学不一定是人生唯一的选择题。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004798_P0003_T00':
+    description: 这么多日期你不好好选，偏偏选自己喜欢的数字7。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004804_P0007_T00':
+    description: 这名片做得不好看，要重新做。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004808_P0000_T00':
+    description: 交谈中，双方老板互换名片。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004839_P0000_T00':
+    description: 学习是打开知识大门的钥匙。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004849_P0000_T00':
+    description: 工厂因为资金缺少就倒闭了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004858_P0000_T00':
+    description: 你家有哪些远亲亲戚？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004878_P0007_T00':
+    description: 我没有过敏过，所以不知道过敏的感觉是什么样的？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004885_P0000_T00':
+    description: 动物是人类的好朋友，我们应当爱护它们。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004890_P0000_T00':
+    description: 如果我们不爱护地球，那么地球也会惩罚我们。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004907_P0003_T00':
+    description: 他那傲慢的态度让人难以接近。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004909_P0003_T00':
+    description: 对身边的傲慢，没有礼貌，友谊长不了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004924_P0003_T00':
+    description: 商店主要是白天营业。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004936_P0007_T00':
+    description: 反复思考白天的事情。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004946_P0000_T00':
+    description: 班长一般都会发挥出班级的积极作用。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004952_P0003_T00':
+    description: 班长有一定的权利，但是也必须承担一定的责任。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004959_P0007_T00':
+    description: 他要看电影，我可以在这个网站中查询下载。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004962_P0000_T00':
+    description: 他用软件查询了一下自己的火车班次号码。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004965_P0007_T00':
+    description: 老师鼓励大家多着急主动去查询一些资料。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004977_P0000_T00':
+    description: 这个超市要承诺该超市的物品比其他超市便宜。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004983_P0003_T00':
+    description: 超市和便利店还是有差别的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004988_P0000_T00':
+    description: 对同学身上的缺点，我们应当是帮助而不是嘲笑。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004990_P0003_T00':
+    description: 我们不应当嘲笑别人的缺点，而是应该看到别人的优点。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004992_P0000_T00':
+    description: 周围人都在嘲笑，他哭了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004997_P0000_T00':
+    description: 他在一圈嘲笑声中站起来。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005002_P0000_T00':
+    description: 老师处罚学生打扫。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005004_P0000_T00':
+    description: 每个人最不喜欢被处罚。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005008_P0006_T00':
+    description: 他这些处罚对于女人来说，太重了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005011_P0000_T00':
+    description: 战争时候，动摇军心的人必然要受到处罚。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005015_P0006_T00':
+    description: 必须要有处罚，也要有奖励。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005017_P0003_T00':
+    description: 这个学校因处罚学生严厉而出名。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005022_P0000_T00':
+    description: 这位厨师制作的甜品，全部受欢迎。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005024_P0003_T00':
+    description: 厨师的工资随着餐饮业的发展也在逐渐提高。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005025_P0003_T00':
+    description: 这部电影反映了厨师制作美食的过程。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005034_P0000_T00':
+    description: 通过这个方式来刺激大脑。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005040_P0003_T00':
+    description: 人面对外界的刺激，精神会做出反应。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005053_P0006_T00':
+    description: 他是一个聪明、活泼、可爱的农村孩子。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005064_P0006_T00':
+    description: 他们总自以为是地觉得自己知道一切问题的答案。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005065_P0003_T00':
+    description: 他着急地想要知道答案。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005069_P0003_T00':
+    description: 抄袭别人的答案是违规的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005075_P0006_T00':
+    description: 这本书的封面被破坏了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005080_P0000_T00':
+    description: 手机可以研究制作封面的软件。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005096_P0006_T00':
+    description: 想要健康，不要抽烟。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005110_P0000_T00':
+    description: 冬天不减肥，夏天会显胖。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005112_P0000_T00':
+    description: 心情不好，没有一顿火锅是解决不了的，如果还是不行，那就再一顿火锅。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005113_P0003_T00':
+    description: 找女朋友是我现在最大的目标。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005114_P0003_T00':
+    description: 谈朋友花费时间花费钱还不一定有结果。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005118_P0000_T00':
+    description: 药物治疗可以缓解感冒症状。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005120_P0003_T00':
+    description: 感冒发烧是指感冒引起的发热症状。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005131_P0003_T00':
+    description: 第一次到国外，感觉国外很奇怪。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005145_P0003_T00':
+    description: 小孩子的表情是他们最为真实的感受。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005162_P0000_T00':
+    description: 合适的工资能吸引劳动者，给予劳动者以鼓励。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005184_P0003_T00':
+    description: 对这个故障，我们有各种应对方法。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005186_P0000_T00':
+    description: 王师傅的技术很高，什么故障都能抢修。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005197_P0006_T00':
+    description: 人体的手指关节一般比较脆弱。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005211_P0003_T00':
+    description: 现在的商业广告大部分在网上，要求顾客在网上付款。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005213_P0000_T00':
+    description: 广告必须首先在内部进行宣传。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005226_P0003_T00':
+    description: 现在常用的核磁共振方法有很多种，如电核磁共振等。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005231_P0000_T00':
+    description: 该中心用先进的核磁共振仪，检查食物里有什么东西。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005233_P0000_T00':
+    description: 红包在传统意义上也叫压岁钱。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005248_P0003_T00':
+    description: 网络上有多种多样的红包图片。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005274_P0000_T00':
+    description: 我们需要懂技术、会管理的干部。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005276_P0000_T00':
+    description: 由于采用了新技术，大大降低了钱财开销。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005281_P0003_T00':
+    description: 我们要努力发展科学技术，缩短同发达国家之间的差距。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005288_P0006_T00':
+    description: 每到节日，家属们都会来部队探亲。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005294_P0003_T00':
+    description: 哥哥自己辞职了，开了一家属于他自己的公司。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005295_P0000_T00':
+    description: 那些遇难者的家属，每个人都流泪难过。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005306_P0009_T00':
+    description: 兼职文员工作对我来说做起来有点难。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005319_P0009_T00':
+    description: 网站上的兼职网站很多。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005323_P0000_T00':
+    description: 我们应确保计算结果准确无误。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005344_P0000_T00':
+    description: 他为事情地发生编造借口。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005346_P0006_T00':
+    description: 我不会被那个借口敷衍。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005347_P0000_T00':
+    description: 我想要找借口。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005354_P0006_T00':
+    description: 李强成功学习的经验值得我们借鉴。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005357_P0006_T00':
+    description: 简单地抄袭别人的经验，对自己不会有多少帮助。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005360_P0009_T00':
+    description: “冤冤相报何时了”这是古人给我们留下的经验和教训。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005365_P0000_T00':
+    description: 老师组织了一次班会让同学们交流自己的学习经验。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005368_P0000_T00':
+    description: 我们一定要低视困难，但绝不应轻视它们。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005380_P0006_T00':
+    description: 你的决定说明你的分析很正确。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005394_P0000_T00':
+    description: 在童年时，他学会了如何不理会困难。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005405_P0000_T00':
+    description: 快递员的工作非常辛苦。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005406_P0000_T00':
+    description: 快递和快运是有区别的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005418_P0000_T00':
+    description: 联欢会上，看到小王模仿明星，我们不禁哑然失笑。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005419_P0006_T00':
+    description: 医生的急救箱里有各种东西。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005470_P0000_T00':
+    description: 目前，中国妇女的避孕率为百分之一。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005496_P0006_T00':
+    description: 春天开始了，农民们都争相劳动。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005502_P0006_T00':
+    description: 有权力的领导人不应该傲慢。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005504_P0009_T00':
+    description: 冬天泡脚好。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005530_P0000_T00':
+    description: 我爱中国共产党。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005532_P0000_T00':
+    description: 我是国民党。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005540_P0006_T00':
+    description: 看你那失望的样子，难道高考失败就没有出息了吗？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005545_P0006_T00':
+    description: 我的信用卡过期了，能否重新办理给我吗？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005546_P0000_T00':
+    description: 根据统计，我国每年有约一千三百万人次的人工流产。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005552_P0000_T00':
+    description: 一项金额达七千五百万元的承包工程已由一家美国公司得标。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005572_P0009_T00':
+    description: 你看不见，靠什么躲避障碍物？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005583_P0006_T00':
+    description: 做爱时不穿安全套是危险的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005594_P0000_T00':
+    description: 我知道他有女朋友，我没有，嫉妒他说他坏话。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005607_P0006_T00':
+    description: 医生会给你检查确诊阑尾炎。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005613_P0000_T00':
+    description: 我们做人不能自私。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005630_P0009_T00':
+    description: 因为家里有事，李小姐委婉地拒绝了王小姐的邀请。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005648_P0000_T00':
+    description: 敌人不甘心失败，不要想重新再来。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005664_P0009_T00':
+    description: 这个问题整体和局部的情况出现了问题。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005670_P0000_T00':
+    description: 签证不是随便做。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005680_P0009_T00':
+    description: 我们把那种看上去很恶心的食物叫做黑暗料理。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005694_P0009_T00':
+    description: 包装和邮费在内，价格五元。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005731_P0006_T00':
+    description: 道理经常能填补知识的缺少，而知识却永远填补不了道理的缺陷。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005762_P0006_T00':
+    description: 当年北京运动会的吉祥物标志是福娃。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005764_P0006_T00':
+    description: 她很爱护家园的一草一木。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005797_P0000_T00':
+    description: 你把书包提前装好，免得到时候完成不了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005808_P0000_T00':
+    description: 一个程序编写好后还要经过反复的调试。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005842_P0000_T00':
+    description: 长江大桥沟通了大江南北。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005861_P0009_T00':
+    description: 他很生气，否认说过此话，并追求哪里来的根据。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005874_P0006_T00':
+    description: 农民对狗爱护，结果被狗咬了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005880_P0000_T00':
+    description: 最近有什么吉利的日期适合结婚办喜宴？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005881_P0000_T00':
+    description: 妈妈办理了这个超市的会员卡。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005892_P0000_T00':
+    description: 会议室里有多媒体系统。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005893_P0000_T00':
+    description: 我们要研究完病历之后才能告诉你结果。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005894_P0006_T00':
+    description: 他以为自己能进决赛，结果一开始就失败了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005913_P0000_T00':
+    description: 去年，因艾滋病死亡的人数很多。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005931_P0000_T00':
+    description: 每个人自有特质，何必如胡乱模仿？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005933_P0000_T00':
+    description: 人们秩序井然地排队，这是一种良好的习惯。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005936_P0000_T00':
+    description: 作弊者被当场抓获，他不觉得不好，还在那里强调各种原因。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005941_P0006_T00':
+    description: 这种事只有在特定的场合才会发生。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005949_P0000_T00':
+    description: 正因为是你，我才不好意思翻脸。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005956_P0000_T00':
+    description: 虽然很害羞，但我还是把这句话告诉他了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005957_P0000_T00':
+    description: 像你这样大大咧咧的人原来也会有害羞的时候啊！
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005971_P0000_T00':
+    description: 这个很好喝，但是喝多了会发胖。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005972_P0006_T00':
+    description: 一些人在倒霉的时候总是借酒浇愁。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005981_P0009_T00':
+    description: 他旅游时，每到一个地方就会发一张自拍。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S005996_P0000_T00':
+    description: 如果你怀疑是阑尾炎，别给孩子服药，会疼痛。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006013_P0009_T00':
+    description: 在共产党的改革开放政策的春风下，万象更新，形势大好。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006015_P0000_T00':
+    description: 追根究底地核实客户满意度，并保持与客户的信息沟通。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006017_P0000_T00':
+    description: 你介绍了这次我和他两校的合作。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006035_P0000_T00':
+    description: 方方的二维码包含许多的信息。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006043_P0000_T00':
+    description: 这场台风给大家带来了严重的财物损失。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006051_P0006_T00':
+    description: 售货员在热情地向顾客介绍商品。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006071_P0009_T00':
+    description: 这篇文章我看了几遍都不懂。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006072_P0000_T00':
+    description: 离开座位超过一小时，就会有人过来把你的书收走。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006078_P0006_T00':
+    description: 定位导航系统为我们的生活带来了便利。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006081_P0006_T00':
+    description: 自行车可以走近路，不受堵车的影响。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006086_P0006_T00':
+    description: 他很有想法，经常与人交流自己的意见。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006089_P0000_T00':
+    description: 我存折里有五百块钱。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006115_P0000_T00':
+    description: 优秀的企业家不断地向强者学习他们成功的经验。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006127_P0006_T00':
+    description: 你有做生意的头脑。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006144_P0009_T00':
+    description: 性传播已经成为了艾滋病的主要传播方式。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006160_P0000_T00':
+    description: 街道前面有一家超市。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006180_P0009_T00':
+    description: 爱情跳动在每一次脉搏之中。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006206_P0000_T00':
+    description: 我的笔记本电脑不见了！
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006241_P0006_T00':
+    description: 字本身没有固定的含义，是人们用来表达自己的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006244_P0000_T00':
+    description: 饭卡挂失要第二天才能生效，即第二天才不会扣钱。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006258_P0009_T00':
+    description: 由于害怕别人报复，他整天的都提心吊胆，吃不下饭。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006268_P0006_T00':
+    description: 也许你感觉自己没有成功吃亏了，但不必怀疑，你每天都离成功更进一步。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006300_P0006_T00':
+    description: 能到银行做事是令人惊讶的机会，我能拒绝吗？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006312_P0000_T00':
+    description: 全体同学都入座后，联欢晚会正式开始了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006344_P0009_T00':
+    description: 他人品好，能力强，没被公司录取，真可惜。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006352_P0000_T00':
+    description: 面对持刀的歹徒，王叔叔没有丝毫的害怕。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006416_P0009_T00':
+    description: 这部电影的女演员很漂亮。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006423_P0000_T00':
+    description: 现在还在用短信的人已经越来越少了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006430_P0000_T00':
+    description: 她撒谎说自己已经有交往对象了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006452_P0000_T00':
+    description: 对我们来说，每分钟都很宝贵。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006453_P0009_T00':
+    description: 你冷静点，我会帮你的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006477_P0000_T00':
+    description: 把衣服放进洗衣机之前要检查一下口里有没有餐巾纸等物品。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006480_P0009_T00':
+    description: 外卖有很多不同的公司。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006484_P0009_T00':
+    description: 飞人是没办法超越的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006490_P0000_T00':
+    description: 学校一年一度的歌咏比赛就要开始了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006493_P0009_T00':
+    description: 今天你复印好三张表格纸。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006499_P0009_T00':
+    description: 玻璃制作碗很古老。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006505_P0009_T00':
+    description: 彩票最低二块钱一张。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006532_P0009_T00':
+    description: 以他的实力，要拿冠军其实很容易。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006537_P0009_T00':
+    description: 越是接触，我越是感觉到了他人的性格好。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006540_P0009_T00':
+    description: 上海可以说是中国的金融中心。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006542_P0000_T00':
+    description: 我一直都觉得搞金融的那些人很神秘。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006564_P0009_T00':
+    description: 我们在这发现了比较脏的河。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006565_P0009_T00':
+    description: 我越是学习，越是发现自己的聪明。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006575_P0000_T00':
+    description: 老人们都很相信迷信。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006584_P0009_T00':
+    description: 快把电源插上。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006640_P0009_T00':
+    description: 还有其他症状吗，比如说恶心，呕吐，腹泻？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006667_P0009_T00':
+    description: 同学在运动会上取得了第一名的好成绩。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006674_P0009_T00':
+    description: 小程序不用下载，可以直接使用，非常方便。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006677_P0000_T00':
+    description: 医生给我开的处方里是专门治感冒的药。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006686_P0009_T00':
+    description: 我已经忍受不了这种乏味的生活了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006694_P0000_T00':
+    description: 还好我发现的及时，不然就倒霉了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006699_P0000_T00':
+    description: 他在街上徘徊着，脸上露出茫然的神色。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006700_P0000_T00':
+    description: 他只会吹牛，一旦真要做事的时候他就一脸茫然了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006715_P0009_T00':
+    description: 按照国家的规定，学生每学期都要缴纳学杂费。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006748_P0009_T00':
+    description: 等到我长大了，一定报名入伍，到前线去做护士。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006754_P0000_T00':
+    description: 我们应该在体育课上教授不受伤的方法。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006761_P0009_T00':
+    description: 我们的老师非常细心，时刻关注同学们情绪上的细微变化。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006770_P0009_T00':
+    description: 银行卡限于本人使用，不得出租或转借。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006772_P0000_T00':
+    description: 买卖或出租共有财产，是否愿意签字？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006779_P0000_T00':
+    description: 这种传染病是通过空气传播，你要注意预防。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006813_P0000_T00':
+    description: 二十年后，他在政府的帮助下终于定居下来。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006819_P0007_T00':
+    description: 医护人员都穿着雪白的衣服。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006835_P0000_T00':
+    description: 维持现状依然是不够的，必须有所突破。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006854_P0007_T00':
+    description: 存折丢了的话要马上去银行补办。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006868_P0000_T00':
+    description: 被抬上担架时，他已经昏迷了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006873_P0003_T00':
+    description: 工人们在工作中提高自己的技术。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006875_P0007_T00':
+    description: 他只知道重复他人的想法，一点没有自己的主张。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006883_P0003_T00':
+    description: 他将来想成为科学家。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006904_P0000_T00':
+    description: 我们的校园又整洁又漂亮。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006946_P0007_T00':
+    description: 猫被背后的小鸟惊吓。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006967_P0000_T00':
+    description: 你看她受了那么大的委屈都没说，你还有什么不平呢？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006968_P0003_T00':
+    description: 老师批评小明后，小明感到委屈，就立即找人倾诉。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006990_P0000_T00':
+    description: 以前还有一家店铺在出租，现在却找不到了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S006995_P0007_T00':
+    description: 我自愿加入组织。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007039_P0007_T00':
+    description: 很多地铁站的装修都很有特色。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007042_P0000_T00':
+    description: 封面设计是一种艺术设计。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007053_P0000_T00':
+    description: 签合同的时候要写下日期，避免无效。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007055_P0000_T00':
+    description: 北京的名片是什么？是人民大会堂。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007057_P0003_T00':
+    description: 两对夫妻组团一起去美国旅游。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007065_P0003_T00':
+    description: 工厂急招几名技术熟练的工人。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007067_P0003_T00':
+    description: 为了招待好远亲哥哥，妈妈做了一桌菜。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007072_P0007_T00':
+    description: 他永远是我们学习的好榜样。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007080_P0000_T00':
+    description: 孩子被打针后，变得安静下来。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007088_P0007_T00':
+    description: 你按下查询，就出现结果。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007118_P0003_T00':
+    description: 我做梦时发现你追我。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007120_P0000_T00':
+    description: 我是没有男人要的，你别乱说。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007121_P0000_T00':
+    description: 你喜欢吃油怎么还吃不胖。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007123_P0000_T00':
+    description: 严重感冒时应该及时就医。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007126_P0000_T00':
+    description: 随着中国经济的发展，工资提升了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007133_P0003_T00':
+    description: 他的膝关节手术非常成功。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007137_P0003_T00':
+    description: 广告公司可以充分发挥自己在绘画和美术装潢上的技术。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007140_P0000_T00':
+    description: 用核磁共振的方法确定机器表面。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007148_P0000_T00':
+    description: 急诊医院出现很多没有医院保险的人没办法支付昂贵的费用。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007154_P0003_T00':
+    description: 全国人民都对事故中受难者的家属深表哀悼。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007160_P0003_T00':
+    description: 有的同学沉迷于网络。总是找借口骗家长的钱上网吧。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007161_P0000_T00':
+    description: 老师在多年的教学工作中取得了丰富的经验。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007167_P0007_T00':
+    description: 快递员今天积极工作。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007175_P0003_T00':
+    description: 你女儿的房间很漂亮，都是粉色的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007192_P0007_T00':
+    description: 提高票价是限制客流量的一种方法。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007211_P0000_T00':
+    description: 天黑了，我害怕。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007218_P0007_T00':
+    description: 禁不起任何的风吹草动和考验的爱情是不长久的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007229_P0003_T00':
+    description: 艺术在于创新，如果只是模仿，艺术还有什么生命力？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007256_P0003_T00':
+    description: 我实习的地方没有工资，只有公交车补贴。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007259_P0000_T00':
+    description: 这箱八宝粥都已经过期了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007278_P0000_T00':
+    description: 越是到了最后的阶段，我们越是不能放松。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007293_P0000_T00':
+    description: 领导迟到三十分钟，会议推迟开始。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007300_P0000_T00':
+    description: 我将分别介绍这几位同事。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007307_P0003_T00':
+    description: 安装了两万部。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007321_P0007_T00':
+    description: 有的人用死牛代替活牛卖。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007325_P0000_T00':
+    description: 由于堵车严重，爸爸只好改道行驶。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007336_P0000_T00':
+    description: 这块石头是自然形成的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007337_P0003_T00':
+    description: 男朋友买了一个大型娃娃送给我，作为生日礼物。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007350_P0000_T00':
+    description: 我有一些同事工作上喜欢浑水摸鱼。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007361_P0003_T00':
+    description: 生命太短，全部用来记仇没有意思。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007362_P0000_T00':
+    description: 这个视频拍下了你作弊的行为。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007372_P0000_T00':
+    description: 这笔钱是预留金，租完之后我们会退给你。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007384_P0003_T00':
+    description: 钥匙坏了，拿不出来了。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007387_P0000_T00':
+    description: 工人仔细养护着花草树木。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007390_P0003_T00':
+    description: 上海最国际化的建筑物标志是漂亮的老洋房。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S007396_P0000_T00':
+    description: 小猫睡觉。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  

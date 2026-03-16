@@ -1,0 +1,5306 @@
+motions:
+  root: "/data1/guanren/American_poses/target_body/"
+  '-g0iPSnQt6w_16-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '-g0iPSnQt6w_2-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '-g0iPSnQt6w_3-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '-g0sqksgyc4_10-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '-g0sqksgyc4_4-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '-g0sqksgyc4_5-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '-g0sqksgyc4_6-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '-g0sqksgyc4_7-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '-g0sqksgyc4_8-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '-g45vqccdzI_1-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '-g45vqccdzI_10-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '-g45vqccdzI_2-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '-g45vqccdzI_3-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '-g45vqccdzI_4-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '37ZtKNf6Yd8_4-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '3ddzkmFPEBU_0-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '8kAWy2YodzQ_0-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '8kAWy2YodzQ_11-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '8kAWy2YodzQ_12-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '8kAWy2YodzQ_19-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '8kAWy2YodzQ_2-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '8kAWy2YodzQ_3-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '8kAWy2YodzQ_4-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '8kAWy2YodzQ_6-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '8kAWy2YodzQ_7-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '8kAWy2YodzQ_8-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '8kAWy2YodzQ_9-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '92V3oH63zbQ_0-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '92V3oH63zbQ_1-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '92V3oH63zbQ_10-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '92V3oH63zbQ_11-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '92V3oH63zbQ_13-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '92V3oH63zbQ_14-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '92V3oH63zbQ_15-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '92V3oH63zbQ_16-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '92V3oH63zbQ_18-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '92V3oH63zbQ_19-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '92V3oH63zbQ_2-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '92V3oH63zbQ_22-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '92V3oH63zbQ_3-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '92V3oH63zbQ_4-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '92V3oH63zbQ_5-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '92V3oH63zbQ_7-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '92V3oH63zbQ_8-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FZCEymcpq7I_10-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FZCEymcpq7I_11-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FZCEymcpq7I_13-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FZCEymcpq7I_15-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FZCEymcpq7I_8-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FZCEymcpq7I_9-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FZCF7kPIyOk_1-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FZCF7kPIyOk_16-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FZCF7kPIyOk_2-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FZLxEwsoc1c_8-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FZNuNG9UBnw_8-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FZNuNG9UBnw_9-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FZrU_mEryAs_4-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FZrWOf-oGDk_5-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FZrWOf-oGDk_7-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'Fz-N1S0swh8_1-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'Fz-N1S0swh8_2-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'Fz-N1S0swh8_3-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'Fz-N1S0swh8_4-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'Fz-N1S0swh8_5-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'Fz-N1S0swh8_7-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'Fz-N1S0swh8_8-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'Fz-N1S0swh8_9-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzAIlhumvMA_5-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzAIlhumvMA_6-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzOQMA-CVPc_6-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzQPg4aqNYc_11-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzQPg4aqNYc_15-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzQPg4aqNYc_16-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzQPg4aqNYc_2-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzQPg4aqNYc_3-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzQPg4aqNYc_4-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzQPg4aqNYc_5-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzQPg4aqNYc_6-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzQPg4aqNYc_9-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzUdcaxw_vs_0-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzUdcaxw_vs_10-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzUdcaxw_vs_11-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzUdcaxw_vs_16-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzUdcaxw_vs_17-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzUdcaxw_vs_18-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzUdcaxw_vs_2-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzUdcaxw_vs_7-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzUdcaxw_vs_8-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzUdcaxw_vs_9-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzWvE__PamM_1-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzWvE__PamM_3-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzWvE__PamM_5-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzWvE__PamM_6-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzaQ-Q5gSmI_7-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzaQ-Q5gSmI_9-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'Fzj3jz2Imf0_2-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzmL8SL6Bow_3-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzoUVr98JmQ_1-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzoUVr98JmQ_2-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzoUVr98JmQ_4-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzoUVr98JmQ_5-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'FzoUVr98JmQ_7-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G-0gYel1YA8_3-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G-0gYel1YA8_8-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G06Irzcwxiw_1-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G06Irzcwxiw_13-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G06Irzcwxiw_19-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G06Irzcwxiw_21-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G06Irzcwxiw_25-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G095RWKQ39g_1-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G095RWKQ39g_13-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G095RWKQ39g_14-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G095RWKQ39g_19-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G095RWKQ39g_5-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0MjvzT_UqM_1-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0MjvzT_UqM_10-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0MjvzT_UqM_12-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0MjvzT_UqM_13-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0MjvzT_UqM_15-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0MjvzT_UqM_18-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0MjvzT_UqM_19-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0MjvzT_UqM_2-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0MjvzT_UqM_20-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0MjvzT_UqM_21-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0MjvzT_UqM_22-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0MjvzT_UqM_4-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0MjvzT_UqM_7-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0PNAsonBGk_10-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0PNAsonBGk_12-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0PNAsonBGk_13-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0PNAsonBGk_19-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0PNAsonBGk_20-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0PNAsonBGk_6-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0PNAsonBGk_7-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0PNAsonBGk_9-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0Q6AlvH96I_10-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0Q6AlvH96I_12-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0Q6AlvH96I_14-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0Q6AlvH96I_20-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0Q6AlvH96I_23-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0Q6AlvH96I_24-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0Q6AlvH96I_25-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0Q6AlvH96I_26-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0Q6AlvH96I_27-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0Q6AlvH96I_5-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0Q6AlvH96I_7-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G0Q6AlvH96I_8-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G19uBylwQww_11-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G19uBylwQww_12-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G19uBylwQww_18-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G19uBylwQww_19-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G19uBylwQww_4-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G19uBylwQww_6-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G19uBylwQww_7-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_0-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_10-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_11-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_12-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_13-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_14-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_15-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_16-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_17-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_18-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_19-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_2-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_22-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_23-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_3-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_6-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_7-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_8-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1GUMky8kWc_9-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1LiGqM3FhM_10-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1LiGqM3FhM_14-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1LiGqM3FhM_16-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1LiGqM3FhM_3-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1LiGqM3FhM_4-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1LiGqM3FhM_6-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1LiGqM3FhM_7-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1LiGqM3FhM_9-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1QiXuldOxM_6-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1QiXuldOxM_8-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1hb5HugzVk_5-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1hb5HugzVk_7-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1jsDl1mVvk_2-1-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1lNlhjWC1I_13-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G1lNlhjWC1I_20-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G21Gx_C18IA_0-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G21Gx_C18IA_1-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G21Gx_C18IA_10-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G21Gx_C18IA_11-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G23G21G49dk_1-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G23G21G49dk_12-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G23G21G49dk_13-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G23G21G49dk_15-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G23G21G49dk_4-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G23G21G49dk_7-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G23G21G49dk_8-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G23G21G49dk_9-2-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G25fic3QxDk_10-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G25fic3QxDk_4-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G25fic3QxDk_6-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G25fic3QxDk_6-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G25fic3QxDk_8-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2Go6a76xd0_10-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2Go6a76xd0_11-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2Go6a76xd0_2-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2VzB5-JkRA_10-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2VzB5-JkRA_10-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2VzB5-JkRA_4-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2VzB5-JkRA_6-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2VzB5-JkRA_6-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2VzB5-JkRA_7-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2VzB5-JkRA_7-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2dND014Ps4_0-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2dND014Ps4_10-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2dND014Ps4_12-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2dND014Ps4_14-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2dND014Ps4_15-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2dND014Ps4_16-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2dND014Ps4_2-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2dND014Ps4_4-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2dND014Ps4_9-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2hnUeetWcc_10-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2hnUeetWcc_12-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2hnUeetWcc_16-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2hnUeetWcc_18-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2hnUeetWcc_3-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2hnUeetWcc_8-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2hnUeetWcc_9-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_11-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_11-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_12-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_12-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_13-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_13-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_14-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_14-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_16-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_16-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_3-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_3-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_4-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_5-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_5-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_6-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_6-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_7-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_7-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_9-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2kVb4gINSI_9-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2sD7N53ju8_0-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2sD7N53ju8_10-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2sD7N53ju8_11-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2sD7N53ju8_2-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2sD7N53ju8_9-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2uKe6hCNSo_0-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2uKe6hCNSo_10-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2uKe6hCNSo_14-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2uKe6hCNSo_15-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2uKe6hCNSo_16-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2uKe6hCNSo_4-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G2uKe6hCNSo_6-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G33aqW3DLpc_5-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G33aqW3DLpc_5-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G38DbiHHTW0_10-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G38DbiHHTW0_2-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G38DbiHHTW0_4-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G38DbiHHTW0_5-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G38DbiHHTW0_8-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3CyVk6dizw_0-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EE6yhl1vk_1-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EE6yhl1vk_2-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EE6yhl1vk_3-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EE6yhl1vk_7-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EE6yhl1vk_8-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EYpadwqck_11-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EYpadwqck_12-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EYpadwqck_7-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EfBFwsOpE_1-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EfBFwsOpE_1-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EfBFwsOpE_10-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EfBFwsOpE_10-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EfBFwsOpE_3-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EfBFwsOpE_4-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EfBFwsOpE_4-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EfBFwsOpE_5-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EfBFwsOpE_5-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EfBFwsOpE_9-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3EfBFwsOpE_9-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3FhmHz_7hs_1-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3FhmHz_7hs_12-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3FhmHz_7hs_13-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3FhmHz_7hs_16-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3FhmHz_7hs_16-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3FhmHz_7hs_21-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3FhmHz_7hs_21-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3FhmHz_7hs_4-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3FhmHz_7hs_5-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3FhmHz_7hs_5-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3FhmHz_7hs_6-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3FhmHz_7hs_8-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3FhmHz_7hs_8-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3GcPpidwxk_14-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3GcPpidwxk_15-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3GcPpidwxk_18-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3GcPpidwxk_20-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3RvsnzQrXQ_0-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3RvsnzQrXQ_0-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3RvsnzQrXQ_10-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3RvsnzQrXQ_10-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3RvsnzQrXQ_2-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3RvsnzQrXQ_2-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3RvsnzQrXQ_4-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3RvsnzQrXQ_4-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3RvsnzQrXQ_5-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3bMqicS4bQ_18-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3bMqicS4bQ_2-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3bMqicS4bQ_7-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3di9jJTqDs_0-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3di9jJTqDs_0-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3di9jJTqDs_1-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3di9jJTqDs_1-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3di9jJTqDs_13-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3di9jJTqDs_5-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3di9jJTqDs_5-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3di9jJTqDs_6-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3di9jJTqDs_6-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3di9jJTqDs_7-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3di9jJTqDs_7-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3di9jJTqDs_8-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3di9jJTqDs_8-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3di9jJTqDs_9-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3di9jJTqDs_9-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_1-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_10-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_12-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_13-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_14-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_15-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_17-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_18-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_19-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_2-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_20-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_21-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_23-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_24-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_26-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_27-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_28-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_30-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_31-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_32-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_33-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_34-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_5-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_6-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_7-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3g0-BeFN3c_8-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3gm_C5UueQ_0-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3gm_C5UueQ_1-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3gm_C5UueQ_3-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3gm_C5UueQ_6-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3gm_C5UueQ_8-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3k86AVFwVs_0-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3k86AVFwVs_1-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3k86AVFwVs_11-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G3k86AVFwVs_2-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_1-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_1-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_11-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_12-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_15-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_15-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_17-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_17-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_18-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_19-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_19-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_3-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_3-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_5-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_6-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_7-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_7-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_8-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_8-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_9-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'G42xKICVj9U_9-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_G0MZFLIHa0_12-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_G0MZFLIHa0_13-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_G0MZFLIHa0_14-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_G0MZFLIHa0_15-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_G0MZFLIHa0_5-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_G0RrDVpOZ4_15-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_G0RrDVpOZ4_16-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_G0RrDVpOZ4_17-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_G0RrDVpOZ4_5-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_G0RrDVpOZ4_6-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_G0RrDVpOZ4_7-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_G0RrDVpOZ4_8-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_G0RrDVpOZ4_9-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_fZbAxSSbX4_0-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_fZbAxSSbX4_1-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_fZbAxSSbX4_11-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_fZbAxSSbX4_12-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_fZbAxSSbX4_13-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_fZbAxSSbX4_22-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_fZbAxSSbX4_24-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_fZbAxSSbX4_25-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_fZbAxSSbX4_4-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_fZbAxSSbX4_5-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_fZbAxSSbX4_6-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_g0fpC8aiME_2-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_g0fpC8aiME_2-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_g0fpC8aiME_6-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  '_g0fpC8aiME_6-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZK9hW81XCU_9-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZK9hW81XCU_9-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZK9hW81XCU_9-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_0-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_0-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_0-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_1-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_17-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_17-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_17-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_3-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_3-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_3-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_4-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_4-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_4-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_6-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_6-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_6-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_7-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_7-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZM3IcM2Xs4_7-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZgWKh3ENoE_0-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZgWKh3ENoE_1-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZgWKh3ENoE_3-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZgWKh3ENoE_5-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZgWKh3ENoE_8-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZgbCwSG3Hc_2-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZgbCwSG3Hc_3-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZgbCwSG3Hc_4-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fZgbCwSG3Hc_5-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_0-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_0-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_0-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_1-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_1-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_1-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_10-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_10-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_10-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_11-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_11-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_12-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_12-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_12-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_13-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_13-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_13-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_14-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_14-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_14-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_15-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_15-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_16-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_16-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_16-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_17-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_2-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_2-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_2-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_3-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_3-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_3-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_5-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_5-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_5-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_8-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_8-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_8-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_9-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'f_zna_wG3zo_9-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzDHRCKr7wU_0-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzDHRCKr7wU_1-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzDHRCKr7wU_1-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzDHRCKr7wU_11-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzDHRCKr7wU_11-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzDHRCKr7wU_12-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzDHRCKr7wU_14-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzDHRCKr7wU_14-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzDHRCKr7wU_15-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzDHRCKr7wU_16-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzDHRCKr7wU_16-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzDHRCKr7wU_18-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzDHRCKr7wU_6-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzDHRCKr7wU_6-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_0-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_13-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_13-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_14-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_18-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_18-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_2-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_2-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_21-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_22-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_22-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_23-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_23-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_27-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_31-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_4-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_7-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_7-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_8-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_8-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_9-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzOH00UZg84_9-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzQ2E3_xBZA_0-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzQ2E3_xBZA_0-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzQ2E3_xBZA_1-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzQ2E3_xBZA_1-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzQ2E3_xBZA_13-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzQ2E3_xBZA_13-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzQ2E3_xBZA_15-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzQ2E3_xBZA_15-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzQ2E3_xBZA_16-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzQ2E3_xBZA_16-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzQ2E3_xBZA_3-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzQ2E3_xBZA_3-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzQ2E3_xBZA_6-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzQ2E3_xBZA_6-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzQ2E3_xBZA_8-5-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzQ2E3_xBZA_8-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzXgYPSnaDs_0-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzXgYPSnaDs_1-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzcsY2gm7t0_0-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzcsY2gm7t0_2-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzcsY2gm7t0_3-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzcsY2gm7t0_8-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzegqlecOD8_2-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzegqlecOD8_2-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzegqlecOD8_8-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzegqlecOD8_8-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzncPNr2Sc0_0-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzncPNr2Sc0_5-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzrJBu2qsM8_0-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzrJBu2qsM8_0-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzrJBu2qsM8_2-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzrJBu2qsM8_4-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzrJBu2qsM8_4-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzrJBu2qsM8_5-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzrJBu2qsM8_5-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'fzueHkUDyhE_3-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g05yGRoZE10_4-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g05yGRoZE10_6-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g05yGRoZE10_9-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0Abwige7MQ_0-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0Abwige7MQ_10-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0Abwige7MQ_13-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0Abwige7MQ_3-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0Abwige7MQ_4-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0Abwige7MQ_5-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0Abwige7MQ_6-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0Abwige7MQ_9-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0QHEtNjZhI_21-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0QHEtNjZhI_21-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0S7FAqIweA_4-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0TkUiO7t4I_1-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0TkUiO7t4I_10-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0TkUiO7t4I_13-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0TkUiO7t4I_7-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0UUmEkoT1w_1-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0UUmEkoT1w_1-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0UUmEkoT1w_3-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0UUmEkoT1w_3-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0UUmEkoT1w_4-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0UUmEkoT1w_4-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0UUmEkoT1w_5-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0UUmEkoT1w_5-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0UUmEkoT1w_8-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0UUmEkoT1w_8-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0fgci8L_rc_10-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0fgci8L_rc_11-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0fgci8L_rc_13-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0fgci8L_rc_14-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0fgci8L_rc_18-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0fgci8L_rc_19-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0fgci8L_rc_2-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0fgci8L_rc_20-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0fgci8L_rc_21-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0fgci8L_rc_22-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0fgci8L_rc_24-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0fgci8L_rc_25-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0fgci8L_rc_4-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0fgci8L_rc_6-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0fgci8L_rc_8-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0iNy-yPisM_15-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0iNy-yPisM_16-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0iNy-yPisM_20-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0iNy-yPisM_21-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0iNy-yPisM_22-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0iNy-yPisM_3-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0iNy-yPisM_4-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0iNy-yPisM_6-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0iNy-yPisM_8-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0iNy-yPisM_9-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0pRnlPR-K0_2-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0pRnlPR-K0_3-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0pRnlPR-K0_4-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0pRnlPR-K0_6-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0pRnlPR-K0_8-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0t4Wz5qsT8_10-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0t4Wz5qsT8_12-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0t4Wz5qsT8_14-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0t4Wz5qsT8_4-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0t4Wz5qsT8_7-8-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0yUlOaqL6k_13-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g0yUlOaqL6k_9-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g13Jo_kFliM_1-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g13Jo_kFliM_1-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g13Jo_kFliM_2-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g13Jo_kFliM_2-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_1-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_12-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_13-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_14-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_15-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_16-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_17-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_18-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_19-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_2-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_20-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_21-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_22-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_23-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_24-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_25-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_27-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_3-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_4-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_7-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_8-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HXoDkax5A_9-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HvmBOR7Y4_0-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HvmBOR7Y4_12-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HvmBOR7Y4_14-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HvmBOR7Y4_17-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HvmBOR7Y4_2-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HvmBOR7Y4_3-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HvmBOR7Y4_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1HvmBOR7Y4_6-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1ccEYTMGGY_10-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1ccEYTMGGY_10-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1ccEYTMGGY_14-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1ccEYTMGGY_14-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1ccEYTMGGY_15-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1ccEYTMGGY_15-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1ccEYTMGGY_5-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1ccEYTMGGY_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1ccEYTMGGY_8-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1ccEYTMGGY_8-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1e-zO8mZ4c_0-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1uA0f9I0Sg_7-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1vUH8Iy4vw_1-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1vUH8Iy4vw_19-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1vUH8Iy4vw_2-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1vUH8Iy4vw_21-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1vUH8Iy4vw_22-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1vUH8Iy4vw_23-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1vUH8Iy4vw_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1vUH8Iy4vw_6-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1vUH8Iy4vw_7-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_0-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_1-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_10-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_11-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_12-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_13-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_16-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_17-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_19-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_2-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_20-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_21-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_22-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_3-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_4-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_6-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_7-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_8-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1xdqxCZxTg_9-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1z6HOJ0yRw_1-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1z6HOJ0yRw_11-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1z6HOJ0yRw_12-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1z6HOJ0yRw_13-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1z6HOJ0yRw_3-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1z6HOJ0yRw_4-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1z6HOJ0yRw_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1z6HOJ0yRw_6-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g1z6HOJ0yRw_9-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g25IORxoyXE_12-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g25IORxoyXE_12-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g25IORxoyXE_16-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g25IORxoyXE_16-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g25IORxoyXE_4-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g25IORxoyXE_4-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g25IORxoyXE_6-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g25IORxoyXE_6-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g25IORxoyXE_7-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g25IORxoyXE_7-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g25IORxoyXE_8-10-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g25IORxoyXE_8-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2NA_eBUcH8_0-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2NA_eBUcH8_1-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2NA_eBUcH8_11-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2NA_eBUcH8_13-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2NA_eBUcH8_17-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2NA_eBUcH8_2-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2NA_eBUcH8_24-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2NA_eBUcH8_26-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2NA_eBUcH8_27-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2NA_eBUcH8_3-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2NA_eBUcH8_30-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2NA_eBUcH8_31-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2NA_eBUcH8_4-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2NA_eBUcH8_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2NA_eBUcH8_6-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2NA_eBUcH8_7-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2NA_eBUcH8_8-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2QdwYqm8pg_1-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2QdwYqm8pg_10-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2QdwYqm8pg_11-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2QdwYqm8pg_2-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2QdwYqm8pg_3-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2QdwYqm8pg_4-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2QdwYqm8pg_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2SdWBPoXZ0_1-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2SdWBPoXZ0_9-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_1-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_10-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_11-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_12-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_13-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_14-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_15-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_16-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_17-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_18-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_19-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_20-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_21-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_22-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_3-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_4-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_6-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_7-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2eTD-1Jcro_9-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2iFC1st7zQ_1-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2iFC1st7zQ_4-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2nvBjp0loQ_10-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2nvBjp0loQ_11-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2nvBjp0loQ_13-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2nvBjp0loQ_3-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2o-GFdGOJE_10-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2o-GFdGOJE_12-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2o-GFdGOJE_13-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2o-GFdGOJE_16-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2o-GFdGOJE_17-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2o-GFdGOJE_18-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2o-GFdGOJE_19-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2o-GFdGOJE_2-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2o-GFdGOJE_20-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2o-GFdGOJE_22-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2o-GFdGOJE_3-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2o-GFdGOJE_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2o-GFdGOJE_9-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2ur4BIuN0Q_0-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2ur4BIuN0Q_3-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2ur4BIuN0Q_7-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2v-M6EXcUE_1-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2v-M6EXcUE_10-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2v-M6EXcUE_12-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2v-M6EXcUE_15-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2v-M6EXcUE_19-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2v-M6EXcUE_2-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2v-M6EXcUE_3-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2v-M6EXcUE_4-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2v-M6EXcUE_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2v-M6EXcUE_6-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2v-M6EXcUE_9-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g2wUCRRni28_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g38AmwPAYvg_3-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3BsH_C3u7Y_0-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3Cc_1-V31U_1-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3Cc_1-V31U_10-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3Cc_1-V31U_16-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3Cc_1-V31U_17-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3Cc_1-V31U_18-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3Cc_1-V31U_19-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3Cc_1-V31U_20-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3Cc_1-V31U_21-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3Cc_1-V31U_4-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3Cc_1-V31U_6-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3DkYITeIy0_3-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3PBeTb1TCw_0-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3PBeTb1TCw_1-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3PBeTb1TCw_10-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3PBeTb1TCw_11-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3PBeTb1TCw_14-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3PBeTb1TCw_15-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3PBeTb1TCw_19-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3PBeTb1TCw_3-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3PBeTb1TCw_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3UE1iPiyuE_2-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3V0BsmDUgY_1-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3V0BsmDUgY_3-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3V0BsmDUgY_9-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_0-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_1-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_10-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_12-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_13-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_14-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_15-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_16-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_17-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_18-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_20-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_21-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_22-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_23-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_4-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_6-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_7-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_8-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3X3XE6M2_A_9-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3ZgF8gdfLo_1-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3ZgF8gdfLo_11-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3ZgF8gdfLo_8-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3ZluRtRXVc_2-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3ZluRtRXVc_8-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3jQ5ecjGz8_1-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3jQ5ecjGz8_2-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3jQ5ecjGz8_3-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3jQ5ecjGz8_9-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3kFAmcBpFc_11-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3kFAmcBpFc_16-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3kFAmcBpFc_17-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3kFAmcBpFc_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3kFAmcBpFc_7-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3pXM5X3_Xw_10-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3pXM5X3_Xw_11-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3pXM5X3_Xw_12-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3pXM5X3_Xw_14-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3pXM5X3_Xw_15-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3pXM5X3_Xw_2-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3pXM5X3_Xw_3-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3pXM5X3_Xw_4-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3pXM5X3_Xw_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3pXM5X3_Xw_8-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3pXM5X3_Xw_9-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3sLd8JupoQ_10-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3sLd8JupoQ_15-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3sLd8JupoQ_16-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3sLd8JupoQ_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3sLd8JupoQ_8-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3sLd8JupoQ_9-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3ushtMfLiY_11-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3ushtMfLiY_12-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'g3ushtMfLiY_5-3-rgb_front':
+    description: American Sign Language
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0

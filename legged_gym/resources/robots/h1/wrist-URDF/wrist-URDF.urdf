@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This URDF was automatically created by SolidWorks to URDF Exporter! Originally created by Stephen Brawner (brawner@gmail.com) 
+     Commit Version: 1.6.0-1-g15f4949  Build Version: 1.6.7594.29634
+     For more information, please see http://wiki.ros.org/sw_urdf_exporter -->
+<robot
+  name="wrist-URDF">
+  <link
+    name="base_link">
+    <inertial>
+      <origin
+        xyz="9.99321351290994E-05 -0.00111139342414086 0.0515259527999158"
+        rpy="0 0 0" />
+      <mass
+        value="0.115579980262108" />
+      <inertia
+        ixx="5.09331475755109E-05"
+        ixy="-8.47130445706597E-08"
+        ixz="-1.50585718657446E-09"
+        iyy="4.6501536837116E-05"
+        iyz="-9.51890257120986E-08"
+        izz="6.58719176086666E-05" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="meshes/base_link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="meshes/base_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <link
+    name="wrist_link0">
+    <inertial>
+      <origin
+        xyz="-4.56166034085159E-07 8.58345575727587E-05 0.00135452261032268"
+        rpy="0 0 0" />
+      <mass
+        value="0.0292571976388873" />
+      <inertia
+        ixx="8.81809811457785E-06"
+        ixy="-3.55194063566249E-12"
+        ixz="-9.46049137638301E-11"
+        iyy="1.1572021985327E-05"
+        iyz="-7.35939748752299E-08"
+        izz="7.7218236215741E-06" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="meshes/wrist_link0.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="meshes/wrist_link0.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="wrist_joint0"
+    type="revolute">
+    <origin
+      xyz="0 0 0.10255"
+      rpy="0 0 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="wrist_link0" />
+    <axis
+      xyz="1 0 0" />
+    <limit
+      lower="-0.27"
+      upper="0.27"
+      effort="0"
+      velocity="0" />
+  </joint>
+  <link
+    name="wrist_link1">
+    <inertial>
+      <origin
+        xyz="4.56723402372794E-06 -0.000201929366767106 3.02483055547587E-07"
+        rpy="0 0 0" />
+      <mass
+        value="0.0178127952685289" />
+      <inertia
+        ixx="1.50686228212958E-06"
+        ixy="6.53996956609682E-12"
+        ixz="4.40418646313806E-11"
+        iyy="2.56208212493769E-06"
+        iyz="1.5268990594571E-12"
+        izz="1.50434058101248E-06" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="meshes/wrist_link1.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="meshes/wrist_link1.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="wrist_joint1"
+    type="revolute">
+    <origin
+      xyz="0 0 0"
+      rpy="0 -6.4444E-05 0" />
+    <parent
+      link="wrist_link0" />
+    <child
+      link="wrist_link1" />
+    <axis
+      xyz="0 1 0" />
+    <limit
+      lower="-0.27"
+      upper="0.27"
+      effort="0"
+      velocity="0" />
+  </joint>
+</robot>

@@ -1,0 +1,40 @@
+motions:
+  root: "/data1/guanren/CSL-Daily/target_body/"
+  'S007179_P0000_T00':
+    description: 飞机马上就要起飞了，请关闭手机。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000259_P0000_T00':
+    description: 那你准备做什么菜呢？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000951_P0000_T00':
+    description: 我约了女朋友的父母吃午饭。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000210_P0000_T00':
+    description: 老师星期六也不休息。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000194_P0000_T00':
+    description: 我最喜欢打乒乓球。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S004958_P0000_T00':
+    description: 我们可以在网络上查询很多资料。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+
+  

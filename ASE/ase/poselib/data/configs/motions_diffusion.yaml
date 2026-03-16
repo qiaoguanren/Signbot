@@ -1,0 +1,141 @@
+motions:
+  root: "../retarget_npy/"
+  'S000007_P0000_T00':
+    description: who is he?
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000008_P0000_T00':
+    description: He is my sign language teacher.
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000003_P0000_T00':
+    description: "thank you"
+    difficulty: 1
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  "S000092_P0000_T00":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "I don't have it"
+    difficulty: 1
+  "S007172_P0000_T00":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "hello"
+    difficulty: 1
+  'S000005_P0000_T00':
+    description: "what's your name"
+    difficulty: 2
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  "S000006_P0000_T00":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "I am choosing a name for my child."
+    difficulty: 2
+  "S000015_P0000_T00":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "Is he your classmate?"
+    difficulty: 2
+  "S000016_P0000_T00":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "He is not my classmate; he is my friend."
+    difficulty: 2
+  "S002163_P0000_T00":
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+    description: "In this soccer match, our class team won the championship due to the excellent teamwork among the players."
+    difficulty: 4
+  # "gongxi_hongbao_move":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "gongxi facai, fetch hongbao"
+  #   difficulty: 4
+  # "gongxi_large_move":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "gongxi exagerate"
+  #   difficulty: 4
+  # "gongxi_large2_move":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "gongxi exagerate hongbao"
+  #   difficulty: 4
+  # "backpack_move":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "wear backpack"
+  #   difficulty: 4
+  # "kemusan_move":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "kemusan"
+  #   difficulty: 4
+  # "uptown_move":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "uptown funk"
+  #   difficulty: 4
+  # "uptown_long_move":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "uptown funk longer"
+  #   difficulty: 4
+  # "shower_move":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "xi zao ge"
+  #   difficulty: 4
+  # "gangnam_move":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "gangnam style"
+  #   difficulty: 4
+  # "hiphop_move":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "hip hop"
+  #   difficulty: 4
+  # "punch_defense_move":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "punch defense"
+  #   difficulty: 4
+  # "punch_defense2_move":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "punch defense"
+  #   difficulty: 4
+  # "basketball_move":
+  #   trim_beg: -1
+  #   trim_end: -1
+  #   weight: 1.0
+  #   description: "basketball signal"
+  #   difficulty: 4
+  

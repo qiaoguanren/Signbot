@@ -1,0 +1,98 @@
+motions:
+  root: "/data1/guanren/CSL-Daily/target_body/"
+  'S000238_P0000_T00':
+    description: 晚饭是妈妈做的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000253_P0000_T00':
+    description: 这个菜是谁做的？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000254_P0000_T00':
+    description: 是妈妈做的。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000078_P0000_T00':
+    description: 妈妈在家里。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000057_P0000_T00':
+    description: 下午我想去超市。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000058_P0000_T00':
+    description: 你想买什么？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000059_P0000_T00':
+    description: 我想买一个杯子。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000060_P0000_T00':
+    description: 这个杯子十块钱。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000099_P0000_T00':
+    description: 现在几点？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000100_P0000_T00':
+    description: 现在十点。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000401_P0000_T00':
+    description: 明天天气怎么样？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000402_P0000_T00':
+    description: 虽然是晴天，但是很冷。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000403_P0000_T00':
+    description: 还能去跑步吗？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000404_P0000_T00':
+    description: 可以，但是你自己去吧，我还有很多事情要做。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000145_P0000_T00':
+    description: 你去超市买什么了？
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
+  'S000408_P0000_T00':
+    description: 喜欢就买吧。
+    difficulty: 4
+    trim_beg: -1
+    trim_end: -1
+    weight: 1.0
